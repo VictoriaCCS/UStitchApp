@@ -18,6 +18,8 @@
 - TensorFlow (image generator) linked through the pom file as an independent project
 -** UStitchApp.exe file generated to run and install the app (Not included here due to size)**
 
+
+
 ## How to Run
 1. Clone the repository:  
    ```bash
@@ -26,4 +28,16 @@
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). 
 Commercial use is not allowed. See the LICENSE file for full details.
+
+
+---
+
+### **2️⃣ UStitchApp README snippet linking to TensorModel**
+
+```markdown
+## AI Pattern Generator
+The AI pattern generator uses the **TensorModel** project for image-to-image generation.  
+TensorModel is an independent module, linked through Maven (`pom.xml`), and can also be reused in other projects.  
+
+Repository: [TensorModel](https://github.com/YOUR_USERNAME/TensorModule) 
 
