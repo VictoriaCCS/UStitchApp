@@ -15,7 +15,8 @@
 - Java 17  
 - JavaFX  
 - H2 Database  
-- TensorFlow (image generator)
+- TensorFlow (image generator) linked through the pom file as an independent project
+-** UStitchApp.exe file generated to run and install the app (Not included here due to size)**
 
 ## How to Run
 1. Clone the repository:  
