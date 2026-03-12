@@ -1,7 +1,22 @@
 # UStitchApp
-Desktop standalone application designed for an interactive learning of embroidery, built with JavaFX, H2 Database  and  image generator feature.
 
+**Desktop application for interactive embroidery learning**
+
+## Description
+**Final Project** UStitch is a **standalone desktop app** designed to help users learn embroidery interactively. Built with **JavaFX**, it integrates a small **image generator** and stores user progress using **H2 Database**. 
+
+## Features
+- Interactive embroidery lessons
+- AI-based pattern/image generation
+- Save user progress in H2 database
+- User-friendly interface with JavaFX
+
+## Tech Stack
+- Java 17  
+- JavaFX  
+- H2 Database  
+- TensorFlow (image generator)
+  
 ## License
-
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). 
 Commercial use is not allowed. See the LICENSE file for full details.
